@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Formula React Racing",
+  "description": "A 2D Formula 1 style racing game built with React and Tailwind CSS. Compete against AI drivers in Race mode or set the fastest lap in Time Trial across three unique circuits.",
+  "requestFramePermissions": []
+}
